@@ -1,0 +1,31 @@
+﻿  bank_project.cpp
+C:\devcpp\oop_aplication_level_11\bank_project\bank_project\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\devcpp\oop_aplication_level_11\bank_project\bank_project\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\devcpp\oop_aplication_level_11\bank_project\bank_project\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\devcpp\oop_aplication_level_11\bank_project\bank_project\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\devcpp\oop_aplication_level_11\bank_project\bank_project\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\devcpp\oop_aplication_level_11\bank_project\bank_project\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\devcpp\oop_aplication_level_11\bank_project\bank_project\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+C:\devcpp\oop_aplication_level_11\bank_project\bank_project\clsUser.h(199,5): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\devcpp\oop_aplication_level_11\bank_project\bank_project\clsUser.h(26,12): message : see declaration of 'clsUser::stLoginRegisterRecord'
+C:\devcpp\oop_aplication_level_11\bank_project\bank_project\clsInputValidate.h(102,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\devcpp\oop_aplication_level_11\bank_project\bank_project\clsInputValidate.h(106,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\devcpp\oop_aplication_level_11\bank_project\bank_project\clsInputValidate.h(134,16): warning C4244: 'initializing': conversion from 'double' to 'short', possible loss of data
+C:\devcpp\oop_aplication_level_11\bank_project\bank_project\clsBankClient.h(221,31): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\devcpp\oop_aplication_level_11\bank_project\bank_project\clsBankClient.h(35,12): message : see declaration of 'clsBankClient::stTrnsferLogRecord'
+C:\devcpp\oop_aplication_level_11\bank_project\bank_project\clsBankClient.h(32,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\devcpp\oop_aplication_level_11\bank_project\bank_project\clsBankClient.h(445,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\devcpp\oop_aplication_level_11\bank_project\bank_project\clsBankClient.h(450,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\devcpp\oop_aplication_level_11\bank_project\bank_project\clsBankClient.h(458,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\devcpp\oop_aplication_level_11\bank_project\bank_project\clsAddNewClientScreen.h(30,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\devcpp\oop_aplication_level_11\bank_project\bank_project\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\devcpp\oop_aplication_level_11\bank_project\bank_project\clsTotalBalanceScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\devcpp\oop_aplication_level_11\bank_project\bank_project\clsTransferScreen.h(42,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\devcpp\oop_aplication_level_11\bank_project\bank_project\clsTransferScreen.h(47,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\devcpp\oop_aplication_level_11\bank_project\bank_project\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\devcpp\oop_aplication_level_11\bank_project\bank_project\clsUpdateCurrencyRateScreen.h(17,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\devcpp\oop_aplication_level_11\bank_project\bank_project\clsCurrencyCalculatorScreen.h(17,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\devcpp\oop_aplication_level_11\bank_project\bank_project\clsBankClient.h(391): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\devcpp\oop_aplication_level_11\bank_project\bank_project\clsBankClient.h(461): warning C4715: 'clsBankClient::WithDraw': not all control paths return a value
+C:\devcpp\oop_aplication_level_11\bank_project\bank_project\clsUser.h(360): warning C4715: 'clsUser::Save': not all control paths return a value
+  bank_project.vcxproj -> C:\devcpp\oop_aplication_level_11\bank_project\x64\Debug\bank_project.exe
